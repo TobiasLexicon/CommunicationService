@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A2794B30-62D2-4AB3-B0E3-F9C94CD6A38D}|Default">
+  <MonoDevelop.Ide.ItemProperties.InheritanceDemo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InheritanceDemo/Messanger.cs">
+    <Files>
+      <File FileName="InheritanceDemo/Program.cs" Line="16" Column="63" />
+      <File FileName="InheritanceDemo/Printer.cs" Line="15" Column="6" />
+      <File FileName="InheritanceDemo/IGetPrinter.cs" Line="6" Column="41" />
+      <File FileName="InheritanceDemo/GetPrinter.cs" Line="9" Column="1" />
+      <File FileName="InheritanceDemo/Emailer.cs" Line="18" Column="1" />
+      <File FileName="InheritanceDemo/IGetEmailer.cs" Line="6" Column="41" />
+      <File FileName="InheritanceDemo/GetEmailer.cs" Line="18" Column="1" />
+      <File FileName="InheritanceDemo/Messanger.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CommunicationService" expanded="True">
+            <Node name="InheritanceDemo" expanded="True">
+              <Node name="Messanger.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

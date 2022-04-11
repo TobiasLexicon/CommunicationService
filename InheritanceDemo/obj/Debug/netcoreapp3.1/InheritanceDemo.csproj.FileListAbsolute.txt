@@ -1,0 +1,13 @@
+/Users/tobiasengberg/Projects/CommunicationService/InheritanceDemo/bin/Debug/netcoreapp3.1/InheritanceDemo.deps.json
+/Users/tobiasengberg/Projects/CommunicationService/InheritanceDemo/bin/Debug/netcoreapp3.1/InheritanceDemo.runtimeconfig.json
+/Users/tobiasengberg/Projects/CommunicationService/InheritanceDemo/bin/Debug/netcoreapp3.1/InheritanceDemo.runtimeconfig.dev.json
+/Users/tobiasengberg/Projects/CommunicationService/InheritanceDemo/bin/Debug/netcoreapp3.1/InheritanceDemo.dll
+/Users/tobiasengberg/Projects/CommunicationService/InheritanceDemo/bin/Debug/netcoreapp3.1/InheritanceDemo.pdb
+/Users/tobiasengberg/Projects/CommunicationService/InheritanceDemo/obj/Debug/netcoreapp3.1/InheritanceDemo.csproj.AssemblyReference.cache
+/Users/tobiasengberg/Projects/CommunicationService/InheritanceDemo/obj/Debug/netcoreapp3.1/InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobiasengberg/Projects/CommunicationService/InheritanceDemo/obj/Debug/netcoreapp3.1/InheritanceDemo.AssemblyInfoInputs.cache
+/Users/tobiasengberg/Projects/CommunicationService/InheritanceDemo/obj/Debug/netcoreapp3.1/InheritanceDemo.AssemblyInfo.cs
+/Users/tobiasengberg/Projects/CommunicationService/InheritanceDemo/obj/Debug/netcoreapp3.1/InheritanceDemo.csproj.CoreCompileInputs.cache
+/Users/tobiasengberg/Projects/CommunicationService/InheritanceDemo/obj/Debug/netcoreapp3.1/InheritanceDemo.dll
+/Users/tobiasengberg/Projects/CommunicationService/InheritanceDemo/obj/Debug/netcoreapp3.1/InheritanceDemo.pdb
+/Users/tobiasengberg/Projects/CommunicationService/InheritanceDemo/obj/Debug/netcoreapp3.1/InheritanceDemo.genruntimeconfig.cache
